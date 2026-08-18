@@ -86,6 +86,14 @@
       "address": "0xcc4Fb5f372FDdcC6b7F8112F9Ab436562E5b50E7",
       "symbol": "CHIPFOUND",
       "decimals": 18
+    },
+    {
+      "chainId": 369,
+      "name": "Proof of No Work",
+      "address": "0x3301C67f4Ebbb64b354829E5dc0c503b4BdfD2dD",
+      "symbol": "PoNW",
+      "decimals": 18,
+      "logoURI": "https://api.squirrelswap.pro/token-logos/0x3301C67f4Ebbb64b354829E5dc0c503b4BdfD2dD.png"
     }
   ]
 }
