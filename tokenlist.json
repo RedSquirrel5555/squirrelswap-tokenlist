@@ -4036,14 +4036,16 @@
       "name": "Jackpot",
       "address": "0x579602F361218bDc0aaD12De5FB0EFFB9C2C1A55",
       "symbol": "JACK",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://api.squirrelswap.pro/token-logos/0x579602F361218bDc0aaD12De5FB0EFFB9C2C1A55.png"
     },
     {
       "chainId": 369,
       "name": "Curbstomp",
       "address": "0x8103A49B02dF7f1db210C2485c9fbdba9a8Fb5AC",
       "symbol": "CURB",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://api.squirrelswap.pro/token-logos/0x8103A49B02dF7f1db210C2485c9fbdba9a8Fb5AC.png"
     },
     {
       "chainId": 369,
