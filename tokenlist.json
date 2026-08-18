@@ -4030,6 +4030,90 @@
       "symbol": "VUSD",
       "decimals": 18,
       "logoURI": "./vusd-logo.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Jackpot",
+      "address": "0x579602F361218bDc0aaD12De5FB0EFFB9C2C1A55",
+      "symbol": "JACK",
+      "decimals": 18
+    },
+    {
+      "chainId": 369,
+      "name": "Curbstomp",
+      "address": "0x8103A49B02dF7f1db210C2485c9fbdba9a8Fb5AC",
+      "symbol": "CURB",
+      "decimals": 18
+    },
+    {
+      "chainId": 369,
+      "name": "Spacecult Chip 7",
+      "address": "0x4e2B5516c84e2A127E996b0203d9F7bF1D6a1603",
+      "symbol": "CHIP7",
+      "decimals": 18
+    },
+    {
+      "chainId": 369,
+      "name": "Spacecult Chip 14",
+      "address": "0x6aBDB29E95F5B3920fd9782510b200729a94FDEA",
+      "symbol": "CHIP14",
+      "decimals": 18
+    },
+    {
+      "chainId": 369,
+      "name": "Spacecult Chip 30",
+      "address": "0x164CAe78A06ea3e9543fe6C46aD135f45765d0f3",
+      "symbol": "CHIP30",
+      "decimals": 18
+    },
+    {
+      "chainId": 369,
+      "name": "Spacecult Chip 60",
+      "address": "0xF6FEC7Ef5189239a92d33981F924646E51a99906",
+      "symbol": "CHIP60",
+      "decimals": 18
+    },
+    {
+      "chainId": 369,
+      "name": "Spacecult Chip 90",
+      "address": "0xD814d5d051d78d0c739b91F15c956c323301F132",
+      "symbol": "CHIP90",
+      "decimals": 18
+    },
+    {
+      "chainId": 369,
+      "name": "Spacecult Chip 120",
+      "address": "0x67080687d6309C160b5272E806811CCB24dFFa65",
+      "symbol": "CHIP120",
+      "decimals": 18
+    },
+    {
+      "chainId": 369,
+      "name": "Spacecult Chip 180",
+      "address": "0x8D099f6D431911C9182dfa5d521aD784e98fC43b",
+      "symbol": "CHIP180",
+      "decimals": 18
+    },
+    {
+      "chainId": 369,
+      "name": "Spacecult Chip 270",
+      "address": "0xeF252b2c1494a67EfF8FEAEFBC601B52191DD70F",
+      "symbol": "CHIP270",
+      "decimals": 18
+    },
+    {
+      "chainId": 369,
+      "name": "Spacecult Chip 365",
+      "address": "0xc8f9f39B37a8Dae9fC4d5DB52528587faba3d3f4",
+      "symbol": "CHIP365",
+      "decimals": 18
+    },
+    {
+      "chainId": 369,
+      "name": "Spacecult Founding Chip",
+      "address": "0xcc4Fb5f372FDdcC6b7F8112F9Ab436562E5b50E7",
+      "symbol": "CHIPFOUND",
+      "decimals": 18
     }
   ]
 }

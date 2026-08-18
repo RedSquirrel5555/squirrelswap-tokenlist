@@ -39,6 +39,15 @@ def main():
     if "piteas" in json.dumps({k: v for k, v in d.items() if k != "tokens"}).lower():
         print("ERROR: 'piteas' still in list metadata"); sys.exit(1)
 
+    # Merge the overlay: tokens added directly here (not in the frontend list) survive a refresh.
+    overlay = os.path.join(HERE, "extra-tokens.json")
+    if os.path.exists(overlay):
+        have_addr = {t["address"].lower() for t in d["tokens"]}
+        extra = [t for t in json.load(open(overlay, encoding="utf-8")).get("tokens", [])
+                 if t.get("address", "").lower() not in have_addr]
+        d["tokens"].extend(extra)
+        print(f"merged {len(extra)} overlay token(s)")
+
     open(os.path.join(HERE, "tokenlist.json"), "w", encoding="utf-8").write(json.dumps(d, indent=2))
     have = set(os.listdir(LOGO))
     missing = sorted(files - have)

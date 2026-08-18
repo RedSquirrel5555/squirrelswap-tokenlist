@@ -16,3 +16,7 @@ repo. Same-origin with the SquirrelSwap aggregator API.
 Run `refresh-from-frontend.py` after tokens change in the app — it regenerates
 `tokenlist.json` from the app's source, fetches any new logos, and commits. The serving
 host picks up the change on its next pull automatically.
+
+To add a token **directly** (not via the app's list), append it to `extra-tokens.json`
+(`chainId, address, name, symbol, decimals`) and commit — the refresh merges the overlay
+in, so a frontend refresh never drops it.
