@@ -3,22 +3,6 @@
   "tokens": [
     {
       "chainId": 369,
-      "name": "Jackpot",
-      "address": "0x579602F361218bDc0aaD12De5FB0EFFB9C2C1A55",
-      "symbol": "JACK",
-      "decimals": 18,
-      "logoURI": "https://api.squirrelswap.pro/token-logos/0x579602F361218bDc0aaD12De5FB0EFFB9C2C1A55.png"
-    },
-    {
-      "chainId": 369,
-      "name": "Curbstomp",
-      "address": "0x8103A49B02dF7f1db210C2485c9fbdba9a8Fb5AC",
-      "symbol": "CURB",
-      "decimals": 18,
-      "logoURI": "https://api.squirrelswap.pro/token-logos/0x8103A49B02dF7f1db210C2485c9fbdba9a8Fb5AC.png"
-    },
-    {
-      "chainId": 369,
       "name": "Spacecult Chip 7",
       "address": "0x4e2B5516c84e2A127E996b0203d9F7bF1D6a1603",
       "symbol": "CHIP7",
@@ -94,6 +78,22 @@
       "symbol": "PoNW",
       "decimals": 18,
       "logoURI": "https://api.squirrelswap.pro/token-logos/0x3301C67f4Ebbb64b354829E5dc0c503b4BdfD2dD.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Jackpot",
+      "address": "0xa60b94Ad7211392045FEEBd953cba43964b0Dc9f",
+      "symbol": "JACK",
+      "decimals": 18,
+      "logoURI": "https://api.squirrelswap.pro/token-logos/0xa60b94Ad7211392045FEEBd953cba43964b0Dc9f.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Curbstomp",
+      "address": "0x4d20f03FE9e98e40d0479159bE834Cb44a51C81d",
+      "symbol": "CURB",
+      "decimals": 18,
+      "logoURI": "https://api.squirrelswap.pro/token-logos/0x4d20f03FE9e98e40d0479159bE834Cb44a51C81d.png"
     }
   ]
 }
