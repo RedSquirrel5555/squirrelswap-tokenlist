@@ -897,9 +897,9 @@
     },
     {
       "chainId": 369,
-      "name": "monat money \u018e\ud809\udc70",
+      "name": "monat money Ǝ𒑰",
       "address": "0xf8AB3393b1f5CD6184Fb6800A1fC802043C4063e",
-      "symbol": "\u018e\ud809\udc70",
+      "symbol": "Ǝ𒑰",
       "decimals": 18,
       "logoURI": "https://api.squirrelswap.pro/token-logos/0xf8AB3393b1f5CD6184Fb6800A1fC802043C4063e.png"
     },
@@ -1153,7 +1153,7 @@
     },
     {
       "chainId": 369,
-      "name": "CROWS \u326b",
+      "name": "CROWS ㉫",
       "address": "0x203e366A1821570b2f84Ff5ae8B3BdeB48Dc4fa1",
       "symbol": "CROWS",
       "decimals": 18,
@@ -1257,7 +1257,7 @@
     },
     {
       "chainId": 369,
-      "name": "\ud804\udc2d\ud804\udc2d\ud804\udc2d\ud804\udc2d\ud804\udc2d",
+      "name": "𑀭𑀭𑀭𑀭𑀭",
       "address": "0xE35A842eb1EDca4C710B6c1B1565cE7df13f5996",
       "symbol": "BFF",
       "decimals": 18,
@@ -1369,7 +1369,7 @@
     },
     {
       "chainId": 369,
-      "name": "\u017dI\u017dEK",
+      "name": "ŽIŽEK",
       "address": "0xe2e1a5d691cCB9E88b84e23A1166B4e6Bd6904Dc",
       "symbol": "ZIZEK",
       "decimals": 18,
@@ -3723,7 +3723,7 @@
       "chainId": 369,
       "name": "ZeroTrust",
       "address": "0xf6703DBff070F231eEd966D33B1B6D7eF5207d26",
-      "symbol": "ZER\u00d8",
+      "symbol": "ZERØ",
       "decimals": 18,
       "logoURI": "https://api.squirrelswap.pro/token-logos/0xf6703DBff070F231eEd966D33B1B6D7eF5207d26.png"
     },
@@ -4124,6 +4124,14 @@
       "symbol": "CURB",
       "decimals": 18,
       "logoURI": "https://api.squirrelswap.pro/token-logos/0x4d20f03FE9e98e40d0479159bE834Cb44a51C81d.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Darker Matter",
+      "address": "0x2b6cE742B5E774163eeC575F269E56cd97dc0917",
+      "symbol": "DRKR",
+      "decimals": 18,
+      "logoURI": "https://api.squirrelswap.pro/token-logos/0x2b6cE742B5E774163eeC575F269E56cd97dc0917.png"
     }
   ]
 }

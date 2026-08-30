@@ -94,6 +94,14 @@
       "symbol": "CURB",
       "decimals": 18,
       "logoURI": "https://api.squirrelswap.pro/token-logos/0x4d20f03FE9e98e40d0479159bE834Cb44a51C81d.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Darker Matter",
+      "address": "0x2b6cE742B5E774163eeC575F269E56cd97dc0917",
+      "symbol": "DRKR",
+      "decimals": 18,
+      "logoURI": "https://api.squirrelswap.pro/token-logos/0x2b6cE742B5E774163eeC575F269E56cd97dc0917.png"
     }
   ]
 }
