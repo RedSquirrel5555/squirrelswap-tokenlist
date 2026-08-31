@@ -269,7 +269,7 @@
       "address": "0xBBcF895BFCb57d0f457D050bb806d1499436c0CE",
       "symbol": "IM",
       "decimals": 18,
-      "logoURI": "https://api.squirrelswap.pro/token-logos/0xBBcF895BFCb57d0f457D050bb806d1499436c0CE.png"
+      "logoURI": "https://api.squirrelswap.pro/token-logos/0xBBcF895BFCb57d0f457D050bb806d1499436c0CE.png?v=2"
     },
     {
       "chainId": 369,
