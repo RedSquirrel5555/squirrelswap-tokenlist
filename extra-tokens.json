@@ -102,6 +102,22 @@
       "symbol": "DRKR",
       "decimals": 18,
       "logoURI": "https://api.squirrelswap.pro/token-logos/0x2b6cE742B5E774163eeC575F269E56cd97dc0917.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Richard Heart PEPE",
+      "address": "0x4e357E4E972FA0d4e2Cb2A363c8226c383c43C75",
+      "symbol": "RHPEPE",
+      "decimals": 18,
+      "logoURI": "https://api.squirrelswap.pro/token-logos/0x4e357E4E972FA0d4e2Cb2A363c8226c383c43C75.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Spunks",
+      "address": "0x321C08Eb09087c77B24322248b3982Da7f7E60ad",
+      "symbol": "Spunk",
+      "decimals": 18,
+      "logoURI": "https://api.squirrelswap.pro/token-logos/0x321C08Eb09087c77B24322248b3982Da7f7E60ad.png"
     }
   ]
 }
